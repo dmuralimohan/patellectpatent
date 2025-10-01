@@ -1,6 +1,5 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { ConsultationForm } from "@/components/ConsultationForm";
 import { 
   Users, 
@@ -184,7 +183,7 @@ const About = () => {
 
               <div className= "text-sm flex items-center gap-2">
                   <a
-                  href="https://wa.me/919876543210?text=Hello%20Patellect%20IP%20Solutions,%20I%20am%20interested%20in%20your%20patent%20services."
+                  href="https://wa.me/918618033312?text=Hello%20Patellect%20IP%20Solutions,%20I%20am%20interested%20in%20your%20patent%20services."
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Chat on WhatsApp"
