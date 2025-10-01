@@ -36,7 +36,7 @@ export const Header = () => {
           </div>
           <div className="hidden md:flex items-center space-x-1 text-sm">
             <MapPin className="h-4 w-4" />
-            <span>Karapakkam, Chennai-97, Tamil Nadu, India</span>
+            <span>Chennai-97, Tamil Nadu, India</span>
           </div>
         </div>
       </div>
