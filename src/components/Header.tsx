@@ -27,7 +27,7 @@ export const Header = () => {
           <div className="flex flex-col sm:flex-row sm:items-center sm:space-x-4 space-y-2 sm:space-y-0">
             <div className="flex items-center space-x-1">
               <Mail className="h-4 w-4" />
-              <span>patellectipsolutions@gmail.com</span>
+              <span>admin@patellectipsolutions.com</span>
             </div>
             <div className="flex items-center space-x-1">
               <Phone className="h-4 w-4" />
